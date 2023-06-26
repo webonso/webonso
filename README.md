@@ -36,8 +36,8 @@ I'm a software engineer who loves to create and learn new things. I have experie
 <!--<a href="https://codepen.io/codebucks27" target="blank" rel="nofollow"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/codepen.svg" alt="codebucks27" height="30" width="40" /></a>-->
 <a href="https://twitter.com/technossau" target="blank" rel="nofollow"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/twitter.svg" alt="code_bucks" height="30" width="40" /></a>
 <a href="https://fb.com/chinonso-okafor" target="blank" rel="nofollow"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/facebook.svg" alt="codebucks27" height="30" width="40" /></a>
-<a href="mailto:cinonsookafor@gmail.com"></a> 
-#whatsapp- +2347063603330
+<a href="mailto:cinonsookafor@gmail.com">cinonsookafor@gmail.com</a> 
+#whatsapp: +2347063603330 
 </p>
 </br>
 
