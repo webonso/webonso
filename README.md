@@ -12,15 +12,15 @@ I'm a software engineer who loves to create and learn new things. I have experie
 
 - 🔭 I’m currently working on building my portfolio website with Nextjs and materials available. I also plan to start building, optimizing more complex projects as soon as i am done with personal portfolio sites. My intention is to connect with other developers as well as work as an intern in a healthy environment where i can give my knowledge in growing, developing as well as making excellent projects and fulfilling the needed tasks, following the organizational objectives.
 
-[Technossau](https://www.youtube.com/channel/technossau) (My YouTube Channel) and <a href="linktr.ee/nonso_" target="blank">Technossau </a> (i create websites at Framers).
+[Technossau](https://www.youtube.com/channel/webonso) (My YouTube Channel) and <a href="linktr.ee/nonso_" target="blank">Technossau </a> (i also create websites at Framers).
 
 <!-- 📝 I regularly write articles on <a href="https://devdreaming.com" target="blank">DevDreaming</a>*-->
 
 - 💬 Ask me about **React, Redux, GraphQl, RestApi, NextJS**
 
-- 🤔 I’m looking for help with improving my data science, or machine learning, Python knowledge
+- 🤔 I’m sometimes envigaging reading and mastering Dart and Python, not excluding Go, and machine learning.
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I can draw very well, and I love soft music too. I love to write poems about nature and love as well. I am a good logo designer too.
+- ⚡ Fun fact: I can draw very well, and I love soft music too. I love to write poems about nature and i love to love as well. I am a good logo designer too.
 
 - 👯 I’m looking to collaborate on open source projects related to web development or UI/UX designs.
 
