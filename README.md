@@ -18,7 +18,7 @@ I'm a software engineer who loves to create and learn new things. I have experie
 
 - 💬 Ask me about **React, Redux, GraphQl, RestApi, NextJS**
 
-- 🤔 I’m sometimes envigaging reading and mastering Dart and Python, not excluding Go, and machine learning.
+- 🤔 I’m sometimes envisaging reading and mastering Dart and Python, not excluding Go, and machine learning.
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I can draw very well, and I love soft music too. I love to write poems about nature and i love to love as well. I am a good logo designer too.
 
