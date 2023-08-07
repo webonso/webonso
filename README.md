@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Chinonso Okafor (alias technossau)</h1>
+<h1 align="center">Hi 👋, I'm Chinonso Okafor (alias Webonso)</h1>
 <h3 align="center">
 I'm a software engineer who loves to create and learn new things. I have experience in web development, data science, and machine learning. I enjoy working on challenging and meaningful projects that can make a positive impact on the world.
 </h3>
@@ -10,13 +10,13 @@ I'm a software engineer who loves to create and learn new things. I have experie
 
 <!-- <p align="left"> <a href="https://twitter.com/code_bucks" target="blank"><img src="https://img.shields.io/twitter/follow/code_bucks?logo=twitter&style=for-the-badge" alt="code_bucks" /></a> </p> -->
 
-- 🔭 I’m currently working on building my portfolio website with Nextjs and materials available. I also plan to start building, optimizing more and complex projects as soon as i am done with personal portfolio sites. My intention is to connect with other developers as well as work as an intern in a healthy environment where i can give my knowledge in growing, developing as well as making excellent projects and fulfilling the needed tasks, following the organizational objectives.
+- 🔭 I’m currently working on building my portfolio website with Nextjs and materials available. I also plan to start building, optimizing more complex projects as soon as i am done with personal portfolio sites. My intention is to connect with other developers as well as work as an intern in a healthy environment where i can give my knowledge in growing, developing as well as making excellent projects and fulfilling the needed tasks, following the organizational objectives.
 
 [Technossau](https://www.youtube.com/channel/technossau) (My YouTube Channel) and <a href="linktr.ee/nonso_" target="blank">Technossau </a> (i create websites at Framers).
 
 <!-- 📝 I regularly write articles on <a href="https://devdreaming.com" target="blank">DevDreaming</a>*-->
 
-- 💬 Ask me about **React, Redux, GraphQl, NextJS**
+- 💬 Ask me about **React, Redux, GraphQl, RestApi, NextJS**
 
 - 🤔 I’m looking for help with improving my data science, or machine learning, Python knowledge
 - 😄 Pronouns: he/him
@@ -37,7 +37,7 @@ I'm a software engineer who loves to create and learn new things. I have experie
 <a href="https://twitter.com/technossau" target="blank" rel="nofollow"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/twitter.svg" alt="code_bucks" height="30" width="40" /></a>
 <a href="https://fb.com/chinonso-okafor" target="blank" rel="nofollow"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/facebook.svg" alt="codebucks27" height="30" width="40" /></a>
 <a href="mailto:cinonsookafor@gmail.com">cinonsookafor@gmail.com</a> 
-#whatsapp: +2347063603330 
+#whatsapp: +2347026704155, +2347063603330 
 </p>
 </br>
 
