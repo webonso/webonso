@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Chinonso Okafor (alias Webonso)</h1>
+<h1 align="center">Hi 👋, I'm Chinonso Okafor (alias Cibonso)</h1>
 <h3 align="center">
 I'm a software engineer who loves to create and learn new things. I have experience in web development, data science, and machine learning. I enjoy working on challenging and meaningful projects that can make a positive impact on the world.
 </h3>
@@ -12,11 +12,11 @@ I'm a software engineer who loves to create and learn new things. I have experie
 
 - 🔭 I’m currently working on building my portfolio website with Nextjs and materials available. I also plan to start building, optimizing more complex projects as soon as i am done with personal portfolio sites. My intention is to connect with other developers as well as work as an intern in a healthy environment where i can give my knowledge in growing, developing as well as making excellent projects and fulfilling the needed tasks, following the organizational objectives.
 
-[Technossau](https://www.youtube.com/channel/webonso) (My YouTube Channel) and <a href="linktr.ee/nonso_" target="blank">Technossau </a> (i also create websites at Framers).
+[Cibonso](https://www.youtube.com/channel/cibonso) (My YouTube Channel) and <a href="linktr.ee/nonso_" target="blank">cibonso </a> (i also create websites at Framers).
 
-<!-- 📝 I regularly write articles on <a href="https://devdreaming.com" target="blank">DevDreaming</a>*-->
+<!-- 📝 I regularly write articles on <a href="https://nextdev.com" target="blank">NEXTDEV</a>*-->
 
-- 💬 Ask me about **React, Redux, GraphQl, RestApi, NextJS**
+- 💬 Ask me about **Javascript, React, Nextjs, Redux, GraphQl, RestApi**
 
 - 🤔 I’m sometimes envisaging reading and mastering Dart and Python, not excluding Go, and machine learning.
 - 😄 Pronouns: he/him
@@ -24,7 +24,7 @@ I'm a software engineer who loves to create and learn new things. I have experie
 
 - 👯 I’m looking to collaborate on open source projects related to web development or UI/UX designs.
 
-- 📫 How to reach me **cinonsookafor@gmail.com**
+- 📫 How to reach me **cinonsookafor@gmail.com**, **info@nonsokafor.com**
   </br>
 
 <h3 align="left">▶ Connect with me:</h3>
