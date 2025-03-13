@@ -1,22 +1,22 @@
-<h1 align="center">Hi 👋, I'm Chinonso Okafor (alias Cibonso)</h1>
+<h1 align="center">Hi 👋, I'm Chinonso James Okafor alias dicibso</h1>
 <h3 align="center">
 I'm a software engineer who loves to create and learn new things. I have experience in web development, data science, and machine learning. I enjoy working on challenging and meaningful projects that can make a positive impact on the world.
 </h3>
 
 </br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=codebucks27&label=Profile%20views&color=0e75b6&style=flat" alt="technossau" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=codebucks27&label=Profile%20views&color=0e75b6&style=flat" alt="nonso" /> </p>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codebucks27" alt="codebucks27" /></a> </p> -->
 
 <!-- <p align="left"> <a href="https://twitter.com/code_bucks" target="blank"><img src="https://img.shields.io/twitter/follow/code_bucks?logo=twitter&style=for-the-badge" alt="code_bucks" /></a> </p> -->
 
-- 🔭 I’m currently working on building my portfolio website with Nextjs and materials available. I also plan to start building, optimizing more complex projects as soon as i am done with personal portfolio sites. My intention is to connect with other developers as well as work as an intern in a healthy environment where i can give my knowledge in growing, developing as well as making excellent projects and fulfilling the needed tasks, following the organizational objectives.
+- 🔭 I build frontend and Full stack projects, depending on my schedules and job description. I’m currently working on building my portfolio website with Nextjs and materials available. I also plan to start building, optimizing more complex projects as soon as i am done with personal portfolio sites. My intention is to connect with other developers as well as work as an intern in a healthy environment where i can give my knowledge in growing, developing as well as making excellent projects and fulfilling the needed tasks, following the organizational objectives.
 
-[Cibonso](https://www.youtube.com/channel/cibonso) (My YouTube Channel) and <a href="linktr.ee/nonso_" target="blank">cibonso </a> (i also create websites at Framers).
+[Decibon](https://www.youtube.com/channel/decibon) (My YouTube Channel) and <a href="linktr.ee/nonsokafor" target="blank">decibon </a>.
 
 <!-- 📝 I regularly write articles on <a href="https://nextdev.com" target="blank">NEXTDEV</a>*-->
 
-- 💬 Ask me about **Javascript, React, Nextjs, Redux, GraphQl, RestApi**
+- 💬 Ask me about **Javascript, Reactjs, Nextjs, AWS, Redux, ContextApi, Drizzle ORM, Prisma, Postgres GraphQl, RestApi**
 
 - 🤔 I’m sometimes envisaging reading and mastering Dart and Python, not excluding Go, and machine learning.
 - 😄 Pronouns: he/him
@@ -24,19 +24,18 @@ I'm a software engineer who loves to create and learn new things. I have experie
 
 - 👯 I’m looking to collaborate on open source projects related to web development or UI/UX designs.
 
-- 📫 How to reach me **cinonsookafor@gmail.com**, **info@nonsokafor.com**
+- 📫 How to reach me **cinonsokafor@gmail.com**, **nonsokafor@gmail.com**, **info@nonsokafor.com**
   </br>
 
 <h3 align="left">▶ Connect with me:</h3>
 <p align="left">
-  <a href="https://www.youtube.com/c/technossau" target="blank" rel="nofollow"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/youtube.svg" alt="codebucks" height="30" width="40" /></a>
-<!--<a href="https://dev.to/codebucks" target="blank"><img align="center" src="https://d2fltix0v2e0sb.cloudfront.net/dev-rainbow.svg" alt="codebucks27" height="30" width="40" /></a>-->
+  <a href="https://www.youtube.com/c/decibon" target="blank" rel="nofollow"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/youtube.svg" alt="nonso" height="30" width="40" /></a>
+<!--<a href="https://nonsokafor.vercel.app" target="blank"><img align="center" src="https://d2fltix0v2e0sb.cloudfront.net/dev-rainbow.svg" alt="codebucks27" height="30" width="40" /></a>-->
 <a href="https://www.linkedin.com/in/chinonso-okafor" target="blank" rel="nofollow"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/linked-in-alt.svg" alt="CodeBucks" height="30" width="40" /></a>
-<a href="https://instagram.com/technossau" target="blank" rel="nofollow"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/instagram.svg" alt="code.bucks" height="30" width="40" /></a>
-<!--<a href="https://codepen.io/codebucks27" target="blank" rel="nofollow"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/codepen.svg" alt="codebucks27" height="30" width="40" /></a>-->
-<a href="https://twitter.com/technossau" target="blank" rel="nofollow"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/twitter.svg" alt="code_bucks" height="30" width="40" /></a>
+<a href="https://instagram.com/decibon" target="blank" rel="nofollow"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/instagram.svg" alt="code.bucks" height="30" width="40" /></a>
+<a href="https://twitter.com/decibon" target="blank" rel="nofollow"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/twitter.svg" alt="code_bucks" height="30" width="40" /></a>
 <a href="https://fb.com/chinonso-okafor" target="blank" rel="nofollow"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/facebook.svg" alt="codebucks27" height="30" width="40" /></a>
-<a href="mailto:cinonsookafor@gmail.com">cinonsookafor@gmail.com</a> 
+<a href="mailto:cinonsokafor@gmail.com">cinonsokafor@gmail.com</a> 
 #whatsapp: +2347026704155, +2347063603330 
 </p>
 </br>
