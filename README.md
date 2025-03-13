@@ -35,8 +35,7 @@ I'm a software engineer who loves to create and learn new things. I have experie
 <a href="https://instagram.com/decibon" target="blank" rel="nofollow"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/instagram.svg" alt="code.bucks" height="30" width="40" /></a>
 <a href="https://twitter.com/decibon" target="blank" rel="nofollow"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/twitter.svg" alt="code_bucks" height="30" width="40" /></a>
 <a href="https://fb.com/chinonso-okafor" target="blank" rel="nofollow"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/facebook.svg" alt="codebucks27" height="30" width="40" /></a>
-<a href="mailto:cinonsokafor@gmail.com">cinonsokafor@gmail.com</a> 
-#whatsapp: +2347026704155, +2347063603330 
+<a href="mailto:cinonsokafor@gmail.com">cinonsokafor@gmail.com</a>, **<a href="https://wa.me/+2347026704155">whatsapp: +2347026704155</a>, +2347063603330 
 </p>
 </br>
 
@@ -51,7 +50,6 @@ I'm a software engineer who loves to create and learn new things. I have experie
 </br>
 </br>
 
-<!---
-webonso/webonso is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!---Chinonso or Decibon/decibon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
