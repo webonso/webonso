@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Chinonso James Okafor alias dicibso</h1>
+<h1 align="center">Hi 👋, I'm Chinonso James Okafor alias dicibon</h1>
 <h3 align="center">
 I'm a software engineer who loves to create and learn new things. I have experience in web development, data science, and machine learning. I enjoy working on challenging and meaningful projects that can make a positive impact on the world.
 </h3>
